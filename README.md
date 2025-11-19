@@ -22,10 +22,10 @@ Access the deployed application on Streamlit Cloud:
 
 ## 📂 Repository Structure
 
-streamlit_emmanuelnaranjo.py # Main Streamlit application
-sellers.xlsx # Dataset used in the dashboard
-requirements.txt # Python dependencies
-run.sh # Startup script for Streamlit Cloud deployment
+- streamlit_emmanuelnaranjo.py # Main Streamlit application
+- sellers.xlsx # Dataset used in the dashboard
+- requirements.txt # Python dependencies
+- run.sh # Startup script for Streamlit Cloud deployment
 
 
 ---
@@ -85,9 +85,9 @@ Download the filtered dataset directly from the interface.
 ---
 ## 📧 Author
 
-Emmanuel Naranjo
-Module: Web Development for Analytics Apps
-Tecnológico de Monterrey
+- Emmanuel Naranjo
+- Module: Web Development for Analytics Apps
+- Tecnológico de Monterrey
 
 ---
 ## ✔ Notes
