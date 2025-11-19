@@ -79,14 +79,15 @@ Download the filtered dataset directly from the interface.
 
 4. Run the application:
    streamlit run streamlit_emmanuelnaranjo.py
-
-📧 Author
+---
+## 📧 Author
 
 Emmanuel Naranjo
 Module: Web Development for Analytics Apps
 Tecnológico de Monterrey
 
-✔ Notes
+---
+## ✔ Notes
 
 This project was created as part of an academic assignment focused on Streamlit development, Git/GitHub workflows, and cloud deployment.
 All data originates from the provided sellers.xlsx file.
