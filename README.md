@@ -72,12 +72,15 @@ Download the filtered dataset directly from the interface.
    git clone https://github.com/YOUR-USERNAME/streamlit-sellers-dashboard
    
 2. Move into the project directory:
+   ```bash
    cd streamlit-sellers-dashboard
 
-3. Install requirements:
+4. Install requirements:
+   ```bash
    pip install -r requirements.txt
 
-4. Run the application:
+6. Run the application:
+   ```bash
    streamlit run streamlit_emmanuelnaranjo.py
 ---
 ## 📧 Author
